@@ -250,7 +250,7 @@ function draw() {
     baddies.push(new Spike(random(width),0,baddieVelocity,30,10))
   }
   if(timer===350){
-    baddies.push(new Speedy(0,random(height),baddieVelocity*1.5,10,20))
+    baddies.push(new Speedy(0,random(height),baddieVelocity*1.5,20,20))
   }
   if(timer===525){
     baddies.push(new Rainbow(width,random(height),baddieVelocity*0.2,100,30))
