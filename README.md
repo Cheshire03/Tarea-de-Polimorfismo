@@ -15,3 +15,7 @@ Creé una clase "Enemigo", de la cual se ramifican mis tres tipos de enemigos: "
 Hice un temporizador para que los enemigos salieran cada cierto intervalo de los bordes de la pantalla, estos se agregan a un arreglo. Antes de que salgan aparece una linea roja que indica de dónde saldrán. Cuando eliminas un "Enemigo", este se elimina del arreglo.
 
 El juego termina una  vez que uno de los "Enemigo"s te toque. Los enemigos se van volviendo más rápidos conforme el tiempo vaya pasando.
+
+##Diagrama
+
+![diagrama](./Diagrama.drawio.png)
